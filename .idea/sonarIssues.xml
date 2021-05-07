@@ -3,6 +3,81 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/org/mockito/mockito-junit-jupiter/2.23.0/mockito-junit-jupiter-2.23.0.jar!/org/mockito/junit/jupiter/MockitoExtension.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../exemple-first-tdd-test/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../exemple-first-tdd-test/src/main/java/Calculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../exemple-first-tdd-test/src/test/java/CalculTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../firstnameLastname/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../firstnameLastname/src/main/java/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../firstnameLastname/src/test/java/UserTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../firstnameLastname/src/test/java/mypackage/DbTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../legacy-code-tests/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../legacy-code-tests/src/main/java/org/craftedsw/tripservicekata/TripService_Original.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../legacy-code-tests/src/main/java/org/craftedsw/tripservicekata/trip/TripService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../legacy-code-tests/src/test/java/org/craftedsw/tripservicekata/trip/test/TripDAOTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../legacy-code-tests/src/test/java/org/craftedsw/tripservicekata/trip/test/TripServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../legacy-code-tests/src/test/java/org/craftedsw/tripservicekata/user/test/UserTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.gitignore">
           <value>
             <set />
@@ -19,6 +94,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/com/in28minutes/tdd/StringHelperTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testing-java-ws/src/main/java/com/openclassrooms/testing/calcul/domain/model/CalculationModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testing-java-ws/src/main/java/com/openclassrooms/testing/calcul/service/CalculatorServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testing-java-ws/src/main/java/com/openclassrooms/testing/calcul/service/SolutionFormatter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testing-java-ws/src/main/java/com/openclassrooms/testing/calcul/service/SolutionFormatterImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../testing-java-ws/src/test/java/com/openclassrooms/testing/calcul/service/CalculatorServiceTest.java">
           <value>
             <set />
           </value>
