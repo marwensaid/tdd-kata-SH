@@ -12,10 +12,12 @@ public class StringHelperTest {
 	public void testAreFirstAndLastTwoCharsTheSame_EmptyCondition() {
 	}
 
+	// "A"==> false
 	@Test
 	public void testAreFirstAndLastTwoCharsTheSame_StringWith1Char() {
 	}
 
+	// "AB" ==> true
 	@Test
 	public void testAreFirstAndLastTwoCharsTheSame_TwoChars() {
 	}
